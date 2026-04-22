@@ -8,17 +8,17 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
+        "title": "High Hopes Data Portal",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
       "globus": {
         "application": {
-          "client_id": "fa198f1c-d1d5-407e-b2e1-67afdff1e1a9"
+          "client_id": "ebe5d188-abe3-42ee-a035-ef0fb48c0c38"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "c8ace42d-c857-4a7f-87e0-348b8208a542",
+          "path": "/"
         }
       }
     }
